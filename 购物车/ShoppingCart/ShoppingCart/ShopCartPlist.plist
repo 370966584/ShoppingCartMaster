@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>data</key>
+	<array>
+		<dict>
+			<key>company_id</key>
+			<string>39</string>
+			<key>nickname</key>
+			<string>我爱我家</string>
+			<key>amount</key>
+			<string>9000</string>
+			<key>list</key>
+			<array>
+				<dict>
+					<key>cart_id</key>
+					<string>12</string>
+					<key>userid</key>
+					<string>30</string>
+					<key>goods_id</key>
+					<string>5</string>
+					<key>goods_num</key>
+					<string>3</string>
+					<key>goods_amount</key>
+					<string>4000.00</string>
+					<key>goods_name</key>
+					<string>五佛磺草胺-稻禾夫</string>
+					<key>goods_price</key>
+					<string>50.00</string>
+					<key>goods_img</key>
+					<string>http://www.anz001.com/upload/goods/IMG_0561.JPG</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
